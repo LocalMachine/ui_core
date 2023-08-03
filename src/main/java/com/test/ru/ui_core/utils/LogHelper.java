@@ -6,6 +6,6 @@ public class LogHelper {
     }
 
     public void printHelloWorld() {
-        System.out.println("HelloWorld");
+        System.out.println("Hello my World");
     }    
 }
