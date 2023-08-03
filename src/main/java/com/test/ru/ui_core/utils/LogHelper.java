@@ -4,4 +4,8 @@ public class LogHelper {
     public static void printHello() {
         System.out.println("Hello");
     }
+
+    public void printHelloWorld() {
+        System.out.println("HelloWorld");
+    }    
 }
